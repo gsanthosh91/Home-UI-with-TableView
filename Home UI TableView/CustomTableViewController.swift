@@ -10,7 +10,7 @@ import UIKit
 
 class CustomTableViewController: UITableViewController {
     
-    var list = [["label" :"Lorem ipsum dolor", "image":"1"], ["label" :"Sed ut perspiciatis", "image":"2"], ["label" :"At vero eos", "image":"3"], ["label" :"On the other,", "image":"4"]]
+    var list = [["label" :"Lorem ipsum dolor", "image":"1"], ["label" :"Sed ut perspiciatis", "image":"2"], ["label" :"At vero eos", "image":"3"], ["label" :"On the other", "image":"4"]]
 
     override func viewDidLoad() {
         super.viewDidLoad()
